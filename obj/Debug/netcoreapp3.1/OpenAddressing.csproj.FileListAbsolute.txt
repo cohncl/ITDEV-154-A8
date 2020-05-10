@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\OpenAddressing\bin\Debug\netcoreapp3.1\OpenAddressing.exe
+C:\Users\Neil Michaels\source\repos\OpenAddressing\bin\Debug\netcoreapp3.1\OpenAddressing.deps.json
+C:\Users\Neil Michaels\source\repos\OpenAddressing\bin\Debug\netcoreapp3.1\OpenAddressing.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\OpenAddressing\bin\Debug\netcoreapp3.1\OpenAddressing.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\OpenAddressing\bin\Debug\netcoreapp3.1\OpenAddressing.dll
+C:\Users\Neil Michaels\source\repos\OpenAddressing\bin\Debug\netcoreapp3.1\OpenAddressing.pdb
+C:\Users\Neil Michaels\source\repos\OpenAddressing\obj\Debug\netcoreapp3.1\OpenAddressing.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\OpenAddressing\obj\Debug\netcoreapp3.1\OpenAddressing.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\OpenAddressing\obj\Debug\netcoreapp3.1\OpenAddressing.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\OpenAddressing\obj\Debug\netcoreapp3.1\OpenAddressing.dll
+C:\Users\Neil Michaels\source\repos\OpenAddressing\obj\Debug\netcoreapp3.1\OpenAddressing.pdb
